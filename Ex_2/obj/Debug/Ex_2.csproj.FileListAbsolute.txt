@@ -1,0 +1,9 @@
+G:\c#_Winfrom\baith2\bai1\bai2\bin\Debug\bai2.exe.config
+G:\c#_Winfrom\baith2\bai1\bai2\bin\Debug\bai2.exe
+G:\c#_Winfrom\baith2\bai1\bai2\bin\Debug\bai2.pdb
+G:\c#_Winfrom\baith2\bai1\bai2\obj\Debug\bai2.Ex_2.resources
+G:\c#_Winfrom\baith2\bai1\bai2\obj\Debug\bai2.Properties.Resources.resources
+G:\c#_Winfrom\baith2\bai1\bai2\obj\Debug\Ex_2.csproj.GenerateResource.cache
+G:\c#_Winfrom\baith2\bai1\bai2\obj\Debug\Ex_2.csproj.CoreCompileInputs.cache
+G:\c#_Winfrom\baith2\bai1\bai2\obj\Debug\bai2.exe
+G:\c#_Winfrom\baith2\bai1\bai2\obj\Debug\bai2.pdb

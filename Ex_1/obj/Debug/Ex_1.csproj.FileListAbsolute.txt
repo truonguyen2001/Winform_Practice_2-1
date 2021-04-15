@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\Winform_Practice_2\Ex_1\obj\Debug\Ex_1.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Winform_Practice_2\Ex_1\obj\Debug\Ex_1.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Winform_Practice_2\Ex_1\obj\Debug\Ex_1.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Winform_Practice_2\Ex_1\obj\Debug\Ex_1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Winform_Practice_2\Ex_1\bin\Debug\Ex_1.exe.config
+C:\Users\ASUS\source\repos\Winform_Practice_2\Ex_1\bin\Debug\Ex_1.exe
+C:\Users\ASUS\source\repos\Winform_Practice_2\Ex_1\bin\Debug\Ex_1.pdb
+C:\Users\ASUS\source\repos\Winform_Practice_2\Ex_1\obj\Debug\Ex_1.Ex_1.resources
+C:\Users\ASUS\source\repos\Winform_Practice_2\Ex_1\obj\Debug\Ex_1.exe
+C:\Users\ASUS\source\repos\Winform_Practice_2\Ex_1\obj\Debug\Ex_1.pdb
